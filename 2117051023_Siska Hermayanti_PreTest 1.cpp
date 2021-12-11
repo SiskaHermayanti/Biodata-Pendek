@@ -7,7 +7,7 @@ int main(){
 	string Alamat;
 	string NPM;
 	
-	cout<<"====================INPUT===================="<<endl;
+	cout<<"==================== INPUT ===================="<<endl;
 	cout<<"Nama :";
 	getline(cin,Nama);
 	cout<<"Jurusan :";
@@ -19,7 +19,7 @@ int main(){
 	
 	cout<<endl;
 	
-	cout<<"====================OUTPUT===================="<<endl;
+	cout<<"==================== OUTPUT ===================="<<endl;
 	cout<<"Nama : "<<Nama<<endl;
 	cout<<"Jurusan : "<<Jurusan<<endl;
 	cout<<"NPM : "<<NPM<<endl;
